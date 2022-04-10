@@ -1,7 +1,7 @@
 # GoalTube - Get Certified to Watch YouTube!
 ## AI platform to get credibility by watching Youtube Tutorial Videos
 
-### Team name: Coders.py
+### Team name: Dark Coders
 
 ## Team members
 * Abhay Ubhale - abhayubhale.30@gmail.com
