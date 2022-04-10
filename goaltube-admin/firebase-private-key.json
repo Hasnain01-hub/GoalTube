@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "edutube-55ae5",
+  "private_key_id": "b6873c9b0817f95a17a50a119311461df80763c2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDmPhYSubNQkqNF\nGfY967P1//G5MBcyyRkWq/QAKle/O1UYLrCvSZsZYnyS9FZgMxY3n7giftYmFJjQ\nTpHwDwY5suB3nk+Bg9RgXCVbzJ8qibLjzaLckAYie3cJPN8VeX0HyfvTSPDtZ5W6\nZpB4Lb8SGNEeI6/MVHZhxpPwsXCS2oomCXd6adWatTYMZkUBf3b7mfuE2N4kzVAL\ndCnJfQuoaP1gb4grisiEvG0dx7CmZa2SjuHIiD3QcmU31hjhTyFpfTeDskqC3Yun\nC8lvITQ46qrxBJvGzAPjzZfrB3wyV8Zutk84n19e0s00Emltedmimn1i0u3qgmsG\nGQBMOUMBAgMBAAECggEAOJIfrUkoWE83Q4a9/HfZ10MkOtqokIddnTbxtEqzFZ73\n6QGr0t3UeHe84QSc5nUW6+LYBM3CQ0gDRgdQDzo5ztp3EZz5rvpbp7NsUHJl1zdP\nF27SqbvPbhCE7mWg8G9Ru6Sytbaxz7sITGzf6U9gJ4umce/VxXApSBvZBKYsYUBO\nlgkD7WAf8wziwOQZUgEbXapymxatLdn33wx5ITh6u3SZi+Zf4+2L6/p7qPs7dU88\n6httwSk1BRhx7RmGfyJo5iZzRlDIBj9y1hmQZ9GINn2manOoSfc1TARz+2pkwD2w\nEZuuuC/S09v1eoHraSykpvAgN/CR6cuUFCPDhSh8OwKBgQD8P4xzUk3Ee6+nqQmF\n/KKUor6aUiBece2FwMU8vq4TmFUlOzsnjYPM5LTlolCWxVkIjEcL36m+s1+6SRIs\ndB5wojmSqTtKG4UcXGsj/2O5+ZNMgX2BU6WjMk7IA8kPC5QakwvwRAy9KBPgoKJY\n+ccdMP5r00RcXiajG47uS3jjpwKBgQDpqr/aSF28qttFLkHBdS0uCrRgj8aq8v89\nvGOtWeRgaU7+TQfdrOCNMC3x5aqm3P4Dx60Z33EvmBnw1g1rTqCjCJF7hZuJv1OF\nV2tOzy+Jz7TmMkFOfY4oG7T6JZMU1cWtcXQzYW9IrCxGMcDP8ZY7xVMsTvE2AkRt\ntOK1OwKZFwKBgQDo6UClRuyZrN8fPzyU5BW2iqLV2Vkb+7QmmT1Ffoc7fp+39f4D\n4m49ZTwHAJ3K6UPxWZ1MQGP6uqN8XXYTZ9CnjZL9cZdWMRzyd/9RyMHreZ/ht3sM\nTBEYJB6MHrqqUrWY6AfQ/PSKQBRCh+//mfqZYKC7LOLlKuYgGxUZwMRJ5wKBgGHw\nRJusS0XB40f63GrGv1oV+IaknKOYWC07IhhNnjBe01I5XTunszLaZ9eE6OMpq3pQ\nHhjDE8DcIrtULKm2ehP7imbYmFnDDLHN81dD9evwWCVIGSFZ9NSQ0GksiJpqA4Hw\nFMFYbHlsWN5PCj7eRpbk3TisGeQGTUIiWAeYJT2fAoGATtwtrG4RcknGwO7YnmRK\nHO9JZIUxA8V8slSIJ+Y2re1XGjRAV6OjZk9hTUWAm2Vs3sOcSio4Q4H5azAO79W2\nivKu2eRhvyN4kVHTDb4IVHfLv/HAH1mT89tt9z6X7uUydOMdfre7RL4c3CCHMrna\nbSn74ka9HONV2TUk2YytdoQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-m9i8q@edutube-55ae5.iam.gserviceaccount.com",
+  "client_id": "116514523034456198728",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-m9i8q%40edutube-55ae5.iam.gserviceaccount.com"
+}

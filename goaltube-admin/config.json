@@ -1,0 +1,13 @@
+{
+    "params":
+    {
+        "app_name" : "GoalTube",
+        "tagline" : "Get Certified to watch YouTube!",
+        "login_img" : "logo_blue.png",
+
+        "admin_name" : "Admin",
+        "admin_user" : "admin",
+        "admin_password" : "1234"
+        
+    }
+}
