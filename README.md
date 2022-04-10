@@ -22,9 +22,9 @@
 * If the user receives a certain number of passing points at the end of all videos and quizzes, they will be certified for that course.
 
 ## Links
-* GitHub Repo link: [Link to repository](https://github.com/abby3010/GoalTube)
+* GitHub Repo link: [Link to repository](https://github.com/Hasnain01-hub/GoalTube)
 * Admin Panel: [Website Link to admin panel](https://goaltube-sih-hackathon.herokuapp.com)
-* Admin Panel Github Repository(with Flutter set in it): [Admin Panel Code](https://github.com/abby3010/GoalTube-Admin-Panel)
+* Admin Panel Github Repository(with Flutter set in it): [Admin Panel Code](https://github.com/Hasnain01-hub/GoalTube)
 * ML Model for genearting questions: [ML Model code](https://github.com/Krishna26Ashar/GoalTube---ML-Model-for-generating-Questionnaire)
 
 ## Technology stack
