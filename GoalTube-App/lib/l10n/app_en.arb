@@ -1,0 +1,154 @@
+{
+  "appName": "GoalTube",
+  "@appName": {
+    "description": "An App Name"
+  },
+  "search": "Search for course",
+  "@search": {
+    "description": "Search for course"
+  },
+  "category": "Category",
+  "@category": {
+    "description": "category home"
+  },
+  "featured": "Featured Courses",
+  "@featured": {
+    "description": "featured courses home"
+  },
+  "farm": "Farm",
+  "@farm": {
+    "description": "farm name"
+  },
+  "education": "Learning",
+  "@education": {
+    "description": "education name"
+  },
+  "health": "Health",
+  "@health": {
+    "description": "health name"
+  },
+  "rating": "4.3",
+  "@rating": {
+    "description": "rating"
+  },
+  "lessons": "22 lesson",
+  "@lessons": {
+    "description": "lessons count"
+  },
+  "course": "Learn Marathi",
+  "@course": {
+    "description": "course3 name"
+  },
+  "view_more": "view more",
+  "@view_more": {
+    "description": "view more button"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home text"
+  },
+  "add_playlist": "Add Playlist",
+  "@add_playlist": {
+    "description": "Add Playlist text"
+  },
+  "my_playlist": "My Playlist",
+  "@my_playlist": {
+    "description": "My Playlist text"
+  },
+  "all_courses": "All Courses",
+  "@all_courses": {
+    "description": "All Courses text"
+  },
+  "about": "About Us",
+  "@about": {
+    "description": "About us text"
+  },
+  "contact": "Contact Us",
+  "@contact": {
+    "description": "Contact us text"
+  },
+  "diss": "Discussion Forum",
+  "@diss": {
+    "description": "About us text"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout text"
+  },
+  "course_name": "Course Name",
+  "@course_name": {
+    "description": "Course Name text"
+  },
+  "enter_course_name": "Enter Course Name",
+  "@enter_course_name": {
+    "description": "Enter Course Name text"
+  },
+  "course_name_required": "Course Name is Required",
+  "@course_name_required": {
+    "description": "Course Name is Required text"
+  },
+  "playlist_name": "Course Playlist",
+  "@playlist_name": {
+    "description": "Course Playlist text"
+  },
+  "enter_playlist_name": "Enter Course Playlist Link",
+  "@enter_playlist_name": {
+    "description": "Enter Course Playlist Link text"
+  },
+  "required_playlist_name": "Youtube Link is Required",
+  "@required_playlist_name": {
+    "description": "Youtube Link is Required"
+  },
+  "valid_url": "Enter Valid url",
+  "@valid_url": {
+    "description": "Enter Valid url Required"
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "submit text"
+  },
+  "my_profile": "My Profile",
+  "@my_profile": {
+    "description": "profile text"
+  },
+  "logout_txt": "Once you Logout, you won't be able to use any of the feature, You have to Login again to continue with the app.",
+  "@logout_txt": {
+    "description": "submit text"
+  },
+  "notes": "My Notes",
+  "@notes": {
+    "description": "My Notes text"
+  },
+  "no_notes": "No Notes",
+  "@no_notes": {
+    "description": "No Notes text"
+  },
+  "recommended": "Recommended Courses",
+  "@recommended": {
+    "description": "Recommended Courses"
+  },
+  "learnEnglish": "Learn English",
+  "@learnEnglish": {
+    "description": "Learn English"
+  },
+  "learnMathematics": "Learn Mathematics",
+  "@learnMathematics": {
+    "description": "Learn Mathematics"
+  },
+  "learnPhysics": "Learn Physics with Physics Wallah",
+  "@learnPhysics": {
+    "description": "Learn Physics with Physics Wallah"
+  },
+  "learnPython": "Learn Python with Krishna Naik",
+  "@learnPython": {
+    "description": "Learn Python with Krishna Naik"
+  },
+  "learnKinetics": "Learn Kinetics with Physics Wallah",
+  "@learnKinetics": {
+    "description": "Learn Kinetics with Physics Wallah"
+  },
+  "learnJavascript": "Learn Javascript wiht Hitesh Chowdhary",
+  "@learnJavascript": {
+    "description": "Learn Javascript wiht Hitesh Chowdhary"
+  }
+}
